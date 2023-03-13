@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clap_To_Find_Phone.iml" filepath="$PROJECT_DIR$/.idea/modules/Clap_To_Find_Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clap_To_Find_Phone.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/Clap_To_Find_Phone.nativetemplates.unitTest.iml" />
+    </modules>
+  </component>
+</project>

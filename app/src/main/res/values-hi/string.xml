@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">फोन खोजने के लिए ताली</string>
+    <string name="change_language">भाषा बदलो</string>
+    <string name="claptofind">खोजने के लिए ताली</string>
+    <string name="WhistletoFind">खोजने के लिए सीटी</string>
+    <string name="Donttouch">स्पर्श न करें</string>
+    <string name="pocketmode">जेब प्रणाली</string>
+    <string name="ChargerDisconnect">चार्जर डिस्कनेक्ट</string>
+    <string name="BatteryAlert">बैटरी अलर्ट</string>
+    <string name="ChildMode">बालक मोड</string>
+    <string name="CallerTalker">कॉलर टॉकर</string>
+    <string name="SMSTalker">एसएमएस टॉकर</string>
+    <string name="Audio">ऑडियो</string>
+    <string name="PIN">नत्थी करना</string>
+    <string name="Language">भाषा</string>
+
+</resources>

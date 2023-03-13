@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clap To Find Phone</string>
+    <string name="change_language">Change Language</string>
+    <string name="claptofind">Clap to Find</string>
+    <string name="WhistletoFind">Whistle to Find</string>
+    <string name="Donttouch">Don\'t Touch</string>
+    <string name="pocketmode">Pocket Mode</string>
+    <string name="ChargerDisconnect">Charger Disconnect</string>
+    <string name="BatteryAlert">Battery Alert</string>
+    <string name="ChildMode">Child Mode</string>
+    <string name="CallerTalker">Caller Talker</string>
+    <string name="SMSTalker">SMS Talker</string>
+    <string name="Audio">Audio</string>
+    <string name="PIN">PIN</string>
+    <string name="Language">Language</string>
+</resources>

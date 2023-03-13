@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361678050314",
+    "project_id": "clap-to-find-phone-bf977",
+    "storage_bucket": "clap-to-find-phone-bf977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361678050314:android:d8c108ae6e4440177afbf3",
+        "android_client_info": {
+          "package_name": "com.example.claptofindphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361678050314-hvd51ms53ihf68sqbesb84ng2iilfce8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDcdjWBOmfXGrfYacCqWQr5l-Mz7N6cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361678050314-hvd51ms53ihf68sqbesb84ng2iilfce8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
